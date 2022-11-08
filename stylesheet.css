@@ -5,9 +5,8 @@
 
 }
 
-
 .title2 {
-  color: #336998;
+  color: #4275a0;
   font-size: 30px;
 }
 
@@ -17,4 +16,9 @@ li {
 
 .title3 {
   color: #02ccba;
+}
+
+img.img1 {
+  width:50%;
+  height:50%;
 }
