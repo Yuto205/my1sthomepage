@@ -1,24 +1,37 @@
-.title {
-    color: #3c8882; 
-    background-image: url("https://p.potaufeu.asahi.com/81e5-p/picture/16854603/9634c3a4cbe713cc29284db6bb915877.jpg");
-    background-size: cover;
-
+.title{
+  font-family:serif;
+  text-align:center;
+  height:60px;
+  line-height:60px;
 }
 
-.title2 {
-  color: #4275a0;
-  font-size: 30px;
+.title2{
+  font-family:serif;
+  text-align:center;
+  height:60px;
+  line-height:60px;
 }
 
-li {
-  color:#3c8882;
+.title3{
+  font-family:serif;
+  color:teal;
+  text-align:center;
+  height:60px;
+  line-height:60px;
 }
 
-.title3 {
-  color: #02ccba;
+.title4{
+  font-family:serif;
 }
 
-img.img1 {
-  width:50%;
-  height:50%;
+div{
+  font-family:serif;
 }
+
+li{
+  font-family:serif;
+}
+
+/* body{
+  background-color: rgb(227, 233, 242);
+} */
